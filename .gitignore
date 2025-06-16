@@ -1,0 +1,3 @@
+# Competition files
+*.parquet
+sample_submission.csv
